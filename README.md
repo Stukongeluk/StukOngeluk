@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jimmy Nguyen and I like to write code!
+My name is Jimmy Nguyen and I like to write code (Like most of you)!
 
 - 🌱 I’m currently learning to be fully fledged freelancer
 - 📫 How to reach me: developer@jimmynguyen.nl
